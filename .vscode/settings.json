@@ -1,0 +1,12 @@
+{
+  "workbench.colorTheme": "Monokai Dimmed",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#03443e",
+    "activityBar.activeBackground": "#03443e",
+    "statusBar.background": "#03443e",
+    "titleBar.activeForeground": "#e7e7e7",
+    "statusBar.foreground": "#e7e7e7",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBarBadge.background": "#e33684"
+  }
+}
